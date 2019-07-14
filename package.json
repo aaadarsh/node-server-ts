@@ -1,0 +1,18 @@
+{
+  "name": "node-ts",
+  "version": "1.0.0",
+  "description": "This is node server written in js and converted in TS for understanding how TS is used in server side scripting  ",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "aaadarsh"
+  },
+  "author": "adarsh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

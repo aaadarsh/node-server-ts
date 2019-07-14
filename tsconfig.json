@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "outDir": "dist",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "target": "es5",                          
+    "module": "commonjs",                     
+    "strict": true,               
+  },
+  "include": [       //This is to include the src file so that TS know from where to consume the code
+    "src/**/*"
+  ]
+}
